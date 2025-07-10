@@ -1,8 +1,9 @@
 <h1 align="center">
-  <img src="https://your-icon-url-here.png" width="100" alt="TikCopy Icon" />
+  <img width="150" alt="TikCopy" src="https://github.com/user-attachments/assets/c8159c90-be1c-402d-b79e-125a3a99d074" />
   <br />
   TikCopy
 </h1>
+
 
 <p align="center">
   <b>A simple yet powerful clipboard history manager for Linux (CLI version)</b><br/>
